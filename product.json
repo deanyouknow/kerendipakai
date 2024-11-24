@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Sepatu 1",
+        "price": 1099000,
+        "image": "assets/catalog/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Sepatu 2",
+        "price": 1200000,
+        "image": "assets/catalog/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Sepatu 3",
+        "price": 1500000,
+        "image": "assets/catalog/3.png"
+    }
+    ,
+    {
+        "id": 4,
+        "name": "Jaket 1",
+        "price": 1099000,
+        "image": "assets/catalog/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Jaket 2",
+        "price": 1200000,
+        "image": "assets/catalog/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Jaket 3",
+        "price": 1500000,
+        "image": "assets/catalog/6.png"
+    },
+    {
+        "id": 7,
+        "name": "Sepatu 4",
+        "price": 1099000,
+        "image": "assets/catalog/7.png"
+    },
+    {
+        "id": 8,
+        "name": "Sepatu 5",
+        "price": 1200000,
+        "image": "assets/catalog/8.png"
+    },
+    {
+        "id": 9,
+        "name": "Sepatu 6",
+        "price": 1500000,
+        "image": "assets/catalog/9.png"
+    },
+    {
+        "id": 10,
+        "name": "Jaket 4",
+        "price": 1099000,
+        "image": "assets/catalog/10.png"
+    },
+    {
+        "id": 11,
+        "name": "Jaket 5",
+        "price": 1200000,
+        "image": "assets/catalog/11.png"
+    },
+    {
+        "id": 12,
+        "name": "Jaket 6",
+        "price": 1500000,
+        "image": "assets/catalog/12.png"
+    }
+]
