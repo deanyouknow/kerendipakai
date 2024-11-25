@@ -71,5 +71,41 @@
         "name": "Jaket 6",
         "price": 1500000,
         "image": "assets/catalog/12.png"
+    },
+    {
+        "id": 13,
+        "name": "Jaket 7",
+        "price": 1500000,
+        "image": "assets/catalog/12.png"
+    },
+    {
+        "id": 14,
+        "name": "Sepatu 7",
+        "price": 1500000,
+        "image": "assets/catalog/1.png"
+    },
+    {
+        "id": 15,
+        "name": "Jaket 8",
+        "price": 1500000,
+        "image": "assets/catalog/11.png"
+    },
+    {
+        "id": 16,
+        "name": "Sepatu 8",
+        "price": 1500000,
+        "image": "assets/catalog/2.png"
+    },
+    {
+        "id": 17,
+        "name": "Jaket 9",
+        "price": 1500000,
+        "image": "assets/catalog/10.png"
+    },
+    {
+        "id": 18,
+        "name": "Sepatu 9",
+        "price": 1500000,
+        "image": "assets/catalog/3.png"
     }
 ]
